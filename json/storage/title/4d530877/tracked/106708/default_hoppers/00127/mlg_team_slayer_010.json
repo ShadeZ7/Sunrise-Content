@@ -1,7 +1,7 @@
 {
   "gvar": {
     "slayer": {
-      "scoreToWin": 50,
+      "scoreToWin": 7,
       "killPoints": "ONE_POINT",
       "assistPoints": "ZERO_POINTS",
       "deathPoints": "ZERO_POINTS",
@@ -72,7 +72,7 @@
         "respawnOnKills": false,
         "livesPerRound": 0,
         "teamLivesPerRound": 0,
-        "respawnTime": 5,
+        "respawnTime": 1,
         "suicideTime": 10,
         "betrayalTime": 0,
         "respawnGrowthTime": 0,
