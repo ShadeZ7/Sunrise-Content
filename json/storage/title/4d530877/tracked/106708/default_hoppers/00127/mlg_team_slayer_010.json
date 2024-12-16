@@ -130,7 +130,7 @@
           "playerGravity": "PERCENT_100",
           "vehicleUsage": "FULL_USE",
           "activeCamo": "OFF",
-          "waypoint": "VISIBLE_TO_ALLIES",
+          "waypoint": "VISIBLE_TO_EVERYONE",
           "playerAura": "OFF",
           "forcedColorChange": "OFF",
           "motionTacker": "OFF",
